@@ -14,4 +14,7 @@ if valasz == 'igen':
 elif valasz == 'nem':
     print('Sajnálom, hogy rossz a napod.')
 else:
-    print('Csak "igen" vagy "nem" választ adhatsz meg.')
+    print('Sajnálom, nem értem a válaszodat!')
+
+    """Fejleszd tovább az első feladat programját úgy, hogy amennyiben a felhasználó nem a két lehetséges válasz (igen/nem) közül ad meg egyet, a gép kiírja: "Sajnos nem értem a válaszodat!"
+"""
